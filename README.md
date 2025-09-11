@@ -26,9 +26,7 @@ Java-Learning/
 │ └── (LeetCode solutions will go here)
 └── README.md
 
-
 ---
-
 ## 🚀 Upcoming
 - Day 5: Skipped due to busy schedule 🚦 (will catch up tomorrow) ✅
 - Day 6 → Strings  
