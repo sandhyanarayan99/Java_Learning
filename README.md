@@ -30,6 +30,7 @@ Java-Learning/
 ---
 
 ## 🚀 Upcoming
-- Day 5 → Strings  
-- Day 6 → Methods  
-- Day 7 → Week 1 Revision
+- Day 5: Skipped due to busy schedule 🚦 (will catch up tomorrow) ✅
+- Day 6 → Strings  
+- Day 7 → Methods  
+- Day 8 → Week 1 Revision
